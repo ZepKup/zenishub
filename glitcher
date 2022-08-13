@@ -37,8 +37,7 @@ toolgoflingfling.Velocity = Vector3.new(10000,10000,10000)
 warn'Neptune/Neptunian V'
 warn[[Absolutely.
 
-Created by NoobyGames12
-----------------------------]]
+Hat Link copied to clipboard
 
 print[[Set your theme by: 
 id/
@@ -48,10 +47,9 @@ You can skip through the position of theme by:
 skipto/]]
 
 warn("Have fun using this!")
----- DO NOT CHANGE ANYTHING BELOW IF YOU'RE NOT AN EDITOR 
+ 
 
 
---Converted with ttyyuu12345's model to script plugin v4
 function sandbox(var,func)
 	local env = getfenv(func)
 	local newenv = setmetatable({},{
