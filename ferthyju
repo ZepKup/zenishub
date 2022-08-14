@@ -1,5 +1,5 @@
 
-
+-- ONLY MADE BY MAUSQI
 
 local tangerex = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZepKup/zenishub/main/afdsght"))()
 game:GetService("StarterGui"):SetCore("SendNotification", { 
